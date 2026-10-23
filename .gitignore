@@ -1,0 +1,6 @@
+﻿bin/
+obj/
+.idea/
+.vs/
+.vscode/
+benchmark_results.csv
